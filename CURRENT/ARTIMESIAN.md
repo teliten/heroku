@@ -1,3 +1,13 @@
+---
+title: ARTIMESIAN
+description: 
+published: true
+date: 2020-12-24T16:20:50.286Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:20:18.778Z
+---
+
 <!-- IS IT HTE FINANCIAL ONEZ OR DA SQUARE ONEZ ? --> 
 
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">

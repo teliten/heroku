@@ -1,3 +1,13 @@
+---
+title: ADAMSROD
+description: 
+published: true
+date: 2020-12-24T16:20:44.823Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:17:39.982Z
+---
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <!-- saved from url=(0122)http://mail.google.com/mail/u/2/?ui=2&amp;ik=9767b07e66&amp;view=pt&amp;search=sent&amp;msg=159fbf07f8e3554c&amp;dsqt=1&amp;siml=159fbf07f8e3554c --><html data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"},{"appId":"sdk_streak_21e9788951","version":"6.2930"}]' data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1485990686498" data-inboxsdk-master-claimed="true" data-inboxsdk-session-id="1485990684125-0.02827476449499744" data-map-id="a529c524bae97227" lang="en"><head data-inboxsdk-script-injected="true"><meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><style type="text/css">
 body,td,div,p,a,input {font-family: arial, sans-serif;}
