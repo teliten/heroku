@@ -2,9 +2,9 @@
 title: FROMLEFT.US
 description: AND GOD HAS ALL BUT LEFT US BEHIND ...
 published: true
-date: 2020-12-24T15:44:22.682Z
+date: 2020-12-24T16:19:23.209Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2020-12-24T15:10:43.816Z
 ---
 

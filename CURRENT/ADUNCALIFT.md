@@ -1,3 +1,13 @@
+---
+title: ADUNCALIFT
+description: 
+published: true
+date: 2020-12-24T16:19:17.433Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:18:19.810Z
+---
+
 <p style="text-align: center;"><span style="font-size: 30px; font-family: georgia, serif;">ALLOL, THE PHAROAH <em>NO ET</em> THE PHARISEES</span></p>
 <p style="text-align: center;"><i>.. continued from&nbsp;<a data-saferedirecturl="http://www.google.com/url?hl=en&amp;q=./RATOXIT.html&amp;source=gmail&amp;ust=1521605797332000&amp;usg=AFQjCNFLgVKOVoelpdQkyelLgNfKep0KNQ" href="./RATOXIT.html" target="_blank">yesterday&#39;s message</a></i></p>
 <p style="text-align: center;"><a data-saferedirecturl="http://www.google.com/url?hl=en&amp;q=http://dai.s.lamc.la&amp;source=gmail&amp;ust=1521605797332000&amp;usg=AFQjCNH2YlOAUCyuxPYrsW6jIVM1gGByaQ" href="./HYAMDAI.html

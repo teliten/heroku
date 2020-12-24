@@ -1,3 +1,13 @@
+---
+title: ARTANWORDS
+description: 
+published: true
+date: 2020-12-24T16:20:49.955Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:19:55.045Z
+---
+
 <p style="text-align: center;"><a href="http://www.youtube.com/watch?v=WziA88-n02k"><em><span style="font-family:georgia,serif;">making friends with shadows on my wall<br />
 all night hearing voices telling me<br />
 that I should get some sleep</span></em></a></p>

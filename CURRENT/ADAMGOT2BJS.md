@@ -1,3 +1,13 @@
+---
+title: ADAMGOT2BJS
+description: 
+published: true
+date: 2020-12-24T16:20:24.547Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:17:28.572Z
+---
+
 <p style="text-align: center;">&ldquo;tomorday&rsquo;s fine art&rdquo;</p>
 
 <p style="text-align: center;"><a href="./SERDEN.html"><img alt="" src="./i.imgur.com/36qnqZr.jpg" style="height: 551px; width: 500px;" /></a></p>

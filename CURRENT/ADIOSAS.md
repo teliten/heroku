@@ -1,3 +1,13 @@
+---
+title: ADIOSAS
+description: 
+published: true
+date: 2020-12-24T16:20:46.133Z
+tags: 
+editor: undefined
+dateCreated: 2020-12-24T16:17:59.457Z
+---
+
 <p style="text-align: center;"><a href="http://www.youtube.com/watch?v=9Sk55fGpf9M&amp;list=PLgYKDBgxsoMMqg-fZ_8PBA79GMm_sj-gN"><img alt="COMING SOON!!!" src="./i.imgur.com/Dd7VfoK.jpg" style="height: 159px; width: 200px;" /></a></p>
 <p style="text-align: justify;">I am aware of the possible sentiment that &ldquo;ho&rdquo; and &ldquo;obelisk&rdquo; might not ring true in your mind as the original intent and purpose of the word, I personally disagree; but&nbsp;<em>to each their own.</em></p>
 <h1 id="you-are-in-the-matrix." style="text-align: justify;"><strong>You are in The Matrix.</strong></h1>
